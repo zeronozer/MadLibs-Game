@@ -32,7 +32,7 @@ Key features:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/<username>/madlibs.git
+   git clone https://codeberg.org/zennon/MadLibs-Game.git
    ```
 2. Navigate to project directory
 
