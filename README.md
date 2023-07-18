@@ -62,6 +62,12 @@ python story.py
 
 TODO: Add unit tests to validate game logic and input handling.
 
+### Credits
+
+- Inspired by a tutorial by Tech With Tim
+
+The original tutorial this code is based on is by "Tech With Tim" and can be found here: [link](https://youtu.be/21FnnGKSRZo?t=1428)
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or PR for any enhancements.
